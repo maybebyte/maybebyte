@@ -1,4 +1,4 @@
-## Hello, welcome
+## Hello, welcome.
 
 Thanks for stopping by. Here's a bit about me:
 
